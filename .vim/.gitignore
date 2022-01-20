@@ -1,0 +1,4 @@
+plugins/*
+*.old
+viminfo
+.netrwhist

@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 76fd9937b4dfa957a1df663205191e9e72d3c04b Baron Leonardo <mohamed.a.elmeligy@protonmail.com> 1641047976 +0200	commit (initial): my vim settings
+76fd9937b4dfa957a1df663205191e9e72d3c04b 60154bffef5dee80ac45c3d5d16749ef16969ba1 Baron Leonardo <mohamed.a.elmeligy@protonmail.com> 1641048158 +0200	commit: add README
+60154bffef5dee80ac45c3d5d16749ef16969ba1 0000000000000000000000000000000000000000 Baron Leonardo <mohamed.a.elmeligy@protonmail.com> 1641048217 +0200	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 60154bffef5dee80ac45c3d5d16749ef16969ba1 Baron Leonardo <mohamed.a.elmeligy@protonmail.com> 1641048217 +0200	Branch: renamed refs/heads/master to refs/heads/main
+60154bffef5dee80ac45c3d5d16749ef16969ba1 6b482df7c2409e277ed7874e19b4b6cee0f3857a Baron Leonardo <mohamed.a.elmeligy@protonmail.com> 1641049039 +0200	commit: update README
+6b482df7c2409e277ed7874e19b4b6cee0f3857a 0c5e8f00eeab99ee89a23bb3a7fe0b850549e3b5 Baron Leonardo <mohamed.a.elmeligy@protonmail.com> 1641126086 +0200	commit: delete 2 caches file and add them to gitignore
+0c5e8f00eeab99ee89a23bb3a7fe0b850549e3b5 e60886a6636e0a644f5de6e2923aea504428dbc5 Baron Leonardo <mohamed.a.elmeligy@protonmail.com> 1641126147 +0200	commit: add disabled option for enabling backup
+e60886a6636e0a644f5de6e2923aea504428dbc5 d4447445dbdd48a51682562ce3dd3bb5009c1db8 Baron Leonardo <mohamed.a.elmeligy@protonmail.com> 1641126183 +0200	commit: save the current position in the current file between open/close
+d4447445dbdd48a51682562ce3dd3bb5009c1db8 348f5ee5628cf62e05d0ce9ec2c168427ce73a26 Baron Leonardo <mohamed.a.elmeligy@protonmail.com> 1641240578 +0200	commit: add multiple configuration for airline plugin
+348f5ee5628cf62e05d0ce9ec2c168427ce73a26 5855b74a3b0c44705dca128629fe35bfc3356877 Baron Leonardo <mohamed.a.elmeligy@protonmail.com> 1641240609 +0200	commit: make scrolling only jumping for one line - smooth scroll
