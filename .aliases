@@ -1,0 +1,13 @@
+alias work="ssh leo-0@192.168.4.22"
+alias ninja="ssh ninja@turtle.rdi"
+alias mount-work="sshfs -o allow_other leo-0@192.168.4.22:/ /mnt"
+export work="leo-0@192.168.4.22"
+export ninja="ninja@turtle.rdi"
+
+alias m-ovpn-on="nmcli connection up Work\ -\ openvpn"
+alias m-ovpn-off="nmcli connection down Work\ -\ openvpn"
+alias m-forti-on="nmcli connection up Work\ -\ fortigate"
+alias m-forti-off="nmcli connection down Work\ -\ fortigate"
+alias m-pomodoro-next="pgrep -f xsetloop.sh | xargs kill -34"
+alias m-pomodoro-pause="pgrep -f xsetloop.sh | xargs kill -10"
+alias m-pomodoro-stop="pgrep -f xsetloop.sh | xargs kill -12"
